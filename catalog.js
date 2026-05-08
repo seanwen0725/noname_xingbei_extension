@@ -19,6 +19,6 @@ extension["tom扩"]={
 	netdisk:"",
 	forum:"",
 	version:"1.0",
-	files:["info.json","README.md","LICENSE","gaoJieQiShi.jpg","huangMoNvWu.jpg","daiXingZhe.jpg","shouLingLieShou.jpg","yingLiuWuShi.jpg","eMoWenZhang.jpg","fangYuZhuangTai.jpg","gongJiZhuangTai.jpg","huangMoNvWu.jpg","jianHuang.jpg","liuLiNvWu.jpg","longJianShi.jpg","longQiShi.jpg","longShuShi.jpg","lvXingShangRen.jpg","shaXueZhiShi.jpg","shengTangMuShi.jpg","shiKongShaLou.jpg","shouRenJun.jpg","shuangMianNvLang.jpg","tianShiWenZhang.jpg"],
+	files:["info.json","README.md","LICENSE","package.js","gaoJieQiShi.jpg","daiXingZhe.jpg","shouLingLieShou.jpg","yingLiuWuShi.jpg","eMoWenZhang.jpg","fangYuZhuangTai.jpg","gongJiZhuangTai.jpg","huangMoNvWu.jpg","jianHuang.jpg","liuLiNvWu.jpg","longJianShi.jpg","longQiShi.jpg","longShuShi.jpg","lvXingShangRen.jpg","shaXueZhiShi.jpg","shengTangMuShi.jpg","shiKongShaLou.jpg","shouRenJun.jpg","shuangMianNvLang.jpg","tianShiWenZhang.jpg"],
 	size:"11.9MB"
 };
